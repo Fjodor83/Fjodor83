@@ -2,4 +2,4 @@
 - 👀 I’m interested in software engineering, full-stack web development, and enterprise applications, with a strong focus on C#/.NET, clean architecture, and scalable systems.
 - 🌱 I’m currently learning advanced ASP.NET Core (.NET 9), software architecture patterns (Service & Repository, Clean Architecture), testing strategies, and modern frontend integrations with Tailwind CSS, React, and TypeScript.
 - 💞️ I’m looking to collaborate on full-stack web applications, ASP.NET MVC / Web API projects, enterprise systems, and open-source projects related to food delivery, logistics, and supply chain management.
-- 📫 How to reach me: GitHub messages or via my professional network (LinkedIn/email, if shared).
+- 📫 How to reach me: GitHub messages or via my professional network ([LinkedIn](https://www.linkedin.com/in/fjodor-vasku-5b1a4a25a/)/email, fjodorv82@gmail.com).
